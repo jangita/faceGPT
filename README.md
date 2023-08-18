@@ -18,9 +18,10 @@ To install the dependencies required for this project, run the following command
 or use pipenv like so
 
 
+`
 pip install pipenv
-pipenv install
-
+pipenv install matplotlib
+`
 
 ## 🔧 Usage
 
