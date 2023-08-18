@@ -13,9 +13,10 @@ This project is a Python script that uses the `matplotlib` library to create a s
 
 To install the dependencies required for this project, run the following command:
 
-pip install matplotlib
+`pip install matplotlib`
 
 or use pipenv like so
+
 
 pip install pipenv
 pipenv install
@@ -25,11 +26,11 @@ pipenv install
 
 To run the blinking face animation script, save the Python script file (e.g., `blinking_face.py`) and then run the following command in your terminal:
 
-python app.py
+`python app.py`
 
 or if using pipenv
 
-pipenv run python app.py
+`pipenv run python app.py`
 
 
 🖥️ This command will execute the script and display the blinking face animation.
