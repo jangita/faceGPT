@@ -38,8 +38,6 @@ or if using pipenv
 
 ## ✏️ Modifications
 
-Modifications were made to the original code by [Your Name or Username]:
-
 - 🔍 Customized face features (size, position, color, etc.)
 - ✨ Added blinking animation functionality.
 - 📚 Improved code structure and formatting for readability.
